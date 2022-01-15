@@ -1,0 +1,40 @@
+{
+  "name": "The Eye of the Dragon #29",
+  "description": "Presale before game release! Big Things Coming! Future ollaborations with Decentraland and other high selling artworks! Feast your eyes on carefully crafted zoomed in pieces of art from dragons. Future goals: Establish these pieces of art as zoomed out versions of playable characters in the metaverse!! Get it now before they sell out! ",
+  "image": "ipfs://QmfQaWTsGjQFxqwLW6Qa5GD3ws2Kga6dpZmRNSGtfiQtPA/29.png",
+  "dna": "fb3e56e7b876049a499544c86accb1026a2d4324",
+  "edition": 29,
+  "date": 1641698512759,
+  "artist": "Charan Jagwani",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
